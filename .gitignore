@@ -1,0 +1,45 @@
+# IDE - IntelliJ / PyCharm / WebStorm / etc.
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Visual Studio Code
+.vscode/
+
+# IDE - Eclipse
+.eclipse/
+.classpath
+.project
+.settings/
+
+# IDE - NetBeans
+nbproject/
+nbactions.xml
+
+# IDE - Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Vim/Neovim
+*.swp
+*.swo
+*~
+
+# IDE - Emacs
+\#*\#
+.\#*
+
+# OS - macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OS - Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OS - Linux
+.directory
